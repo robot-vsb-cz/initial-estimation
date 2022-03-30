@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Initial Estimation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Huczala
+    affiliation: >-
+      VSB - Technical University of Ostrava,
+      Department of Robotics
+    orcid: 'https://orcid.org/0000-0002-7398-7825'
+url: "https://github.com/robot-vsb-cz/initial-estimation"
+date-released: 2021-04-15
+version: 1.1
+doi: 10.3390/app11083548
