@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/doi-10.3390%2Fapp11083548-green)](https://doi.org/10.3390/app11083548)
 ![GitHub](https://img.shields.io/github/license/robot-vsb-cz/initial-estimation)
 
-This repository provides supplementary material for the paper **Initial Estimation of Kinematic Structure of a Robotic Manipulator as an Input for Its Sythesis**.
+This repository provides supplementary material for the paper **Initial Estimation of Kinematic Structure of a Robotic Manipulator as an Input for Its Synthesis**.
 
 Link to the paper: [doi.org/10.3390/app11083548](https://doi.org/10.3390/app11083548)
 
