@@ -1,4 +1,4 @@
-# Initial Estimation of Kinematic Structure of a Robotic Manipulator as an Input for Its Sythesis
+# Initial Estimation of Kinematic Structure of a Robotic Manipulator as an Input for Its Synthesis
 
 [![OA](https://img.shields.io/badge/MDPI%20Applied%20Sciences-Open%20Access-orange?style=social&logo=open-access)](https://doi.org/10.3390/app11083548)
 [![DOI](https://img.shields.io/badge/doi-10.3390%2Fapp11083548-green)](https://doi.org/10.3390/app11083548)
